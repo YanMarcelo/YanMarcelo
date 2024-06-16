@@ -6,7 +6,6 @@ Computer Engineering Student
 
 * 🌍  I'm based in Sobral, Ceará
 * ✉️  You can contact me at [yanmarcelobo@alu.ufc.br](mailto:yanmarcelobo@alu.ufc.br)
-* 🚀  I'm currently working on [Game Development](http://github.com/pab-h/loremipsum.git)
 * 🧠  I'm learning HTML, CSS and JavaScript
 
 ### Skills
